@@ -2,52 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ba1c209-c92a-4836-bf8d-0686556136c4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Bill.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Location.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Payment.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/PaymentDetails.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/PaymentMode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Product/Bike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Product/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Product/Status.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Product/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Product/VehicleType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Reservation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/ReservationStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/ReservationType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/Store.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/VehicleInventoryManagement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDCarRentalSystem/VehicleRentalSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/Building.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/Direction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorCar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorCreator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorDoor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ElevatorState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/ExternalDispatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/Floor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/InternalButtons.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/InternalDispatcher.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDElevatorDesign/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Cell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Dice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Jump.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDSnakeLadder/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/PieceType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPiece.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPieceO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPieceX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/LLDTicTacToe/TicTacToeGame.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/FileSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/ArithmeticExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ChainResponsiblityDesignPattern/DebugLogProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ChainResponsiblityDesignPattern/DebugLogProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ChainResponsiblityDesignPattern/ErrorLogProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ChainResponsiblityDesignPattern/ErrorLogProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ChainResponsiblityDesignPattern/InfoLogProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ChainResponsiblityDesignPattern/InfoLogProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ChainResponsiblityDesignPattern/LogProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ChainResponsiblityDesignPattern/LogProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ChainResponsiblityDesignPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ChainResponsiblityDesignPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/DecoratorDesignPattern/BasePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/BasePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/DecoratorDesignPattern/ExtraCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/ExtraCheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/DecoratorDesignPattern/ExtraMushroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/ExtraMushroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/DecoratorDesignPattern/FarmHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/FarmHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/DecoratorDesignPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/DecoratorDesignPattern/Margherita.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/Margherita.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/DecoratorDesignPattern/ToppingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/ToppingDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/DecoratorDesignPattern/VegDelight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/DecoratorDesignPattern/VegDelight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPattern/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPattern/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPattern/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPattern/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPattern/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/FactoryDesignPattern/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/FactoryDesignPattern/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ObserverDesignPattern/Observable/IphoneObservableImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/Observable/IphoneObservableImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ObserverDesignPattern/Observable/StockObservable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/Observable/StockObservable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ObserverDesignPattern/Observer/EmailAlertObserverImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/Observer/EmailAlertObserverImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ObserverDesignPattern/Observer/MobileAlertObserverImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/Observer/MobileAlertObserverImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ObserverDesignPattern/Observer/NotificationAlertObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/Observer/NotificationAlertObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ObserverDesignPattern/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/ObserverDesignPattern/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/ObserverDesignPattern/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithStrategy/GoodsVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithStrategy/GoodsVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithStrategy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithStrategy/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithStrategy/OffRoadVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithStrategy/OffRoadVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithStrategy/SportsVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithStrategy/SportsVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithStrategy/Strategy/DriveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithStrategy/Strategy/DriveStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithStrategy/Strategy/NormalDriverStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithStrategy/Strategy/NormalDriverStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithStrategy/Strategy/SportDriveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithStrategy/Strategy/SportDriveStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithStrategy/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithStrategy/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithoutStrategy/GoodVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithoutStrategy/GoodVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithoutStrategy/OffRoadVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithoutStrategy/OffRoadVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithoutStrategy/PassengerVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithoutStrategy/PassengerVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithoutStrategy/SportsVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithoutStrategy/SportsVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/WithoutStrategy/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/WithoutStrategy/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPattern/StrategyDesignPattern/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/StrategyDesignPattern/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachineForBabies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachineForBabies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Client/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/ProblemStatement/Directory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/ProblemStatement/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/ProblemStatement/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/File.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/File.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/FileSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/ArithmeticExpression.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Operation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/DebugLogProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/ErrorLogProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/InfoLogProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/LogProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +96,12 @@
   }
 }</component>
   <component name="RunManager" selected="Application.ParkingApplicationDriver">
-    <configuration name="DesignPattern.FactoryDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.FactoryDesignPattern.Main" />
+    <configuration name="DesignPatterns.FactoryDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.FactoryDesignPattern.Main" />
       <module name="SystemDesign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPattern.FactoryDesignPattern.*" />
+          <option name="PATTERN" value="DesignPatterns.FactoryDesignPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesignPattern.StrategyDesignPattern.WithStrategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.StrategyDesignPattern.WithStrategy.Main" />
+    <configuration name="DesignPatterns.StrategyDesignPattern.WithStrategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.StrategyDesignPattern.WithStrategy.Main" />
       <module name="SystemDesign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPattern.StrategyDesignPattern.WithStrategy.*" />
+          <option name="PATTERN" value="DesignPatterns.StrategyDesignPattern.WithStrategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +149,11 @@
       </method>
     </configuration>
     <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DesignPattern.ObserverDesignPattern.Store" />
+      <option name="MAIN_CLASS_NAME" value="DesignPatterns.ObserverDesignPattern.Store" />
       <module name="SystemDesign" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DesignPattern.ObserverDesignPattern.*" />
+          <option name="PATTERN" value="DesignPatterns.ObserverDesignPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,9 +165,9 @@
       <list>
         <item itemvalue="Application.ParkingApplicationDriver" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DesignPattern.StrategyDesignPattern.WithStrategy.Main" />
+        <item itemvalue="Application.DesignPatterns.StrategyDesignPattern.WithStrategy.Main" />
         <item itemvalue="Application.Store" />
-        <item itemvalue="Application.DesignPattern.FactoryDesignPattern.Main" />
+        <item itemvalue="Application.DesignPatterns.FactoryDesignPattern.Main" />
       </list>
     </recent_temporary>
   </component>
