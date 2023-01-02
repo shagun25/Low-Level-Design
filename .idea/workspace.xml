@@ -29,7 +29,46 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/shagun.goyal/Downloads/interviewcodingpractise-main 2&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="DesignPattern.ChainResponsiblityDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.ChainResponsiblityDesignPattern.Main" />
+      <module name="SystemDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.ChainResponsiblityDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignPattern.FactoryDesignPattern.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.FactoryDesignPattern.Main" />
+      <module name="SystemDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.FactoryDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignPattern.StrategyDesignPattern.WithStrategy.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.StrategyDesignPattern.WithStrategy.Main" />
+      <module name="SystemDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.StrategyDesignPattern.WithStrategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LowLevelDesign.LLDTicTacToe.Main" />
       <module name="SystemDesign" />
@@ -43,9 +82,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignPattern.ObserverDesignPattern.Store" />
+      <module name="SystemDesign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DesignPattern.ObserverDesignPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DesignPattern.StrategyDesignPattern.WithStrategy.Main" />
+        <item itemvalue="Application.Store" />
+        <item itemvalue="Application.DesignPattern.FactoryDesignPattern.Main" />
+        <item itemvalue="Application.DesignPattern.ChainResponsiblityDesignPattern.Main" />
       </list>
     </recent_temporary>
   </component>
